@@ -3,7 +3,6 @@ package com.TestTechnology;
 import java.io.IOException;
 
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebDriver;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
