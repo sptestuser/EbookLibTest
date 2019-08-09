@@ -52,7 +52,7 @@ public class TestApp extends Base {
 		String actualValue =actualUserName.substring(8,actualUserName.length()-1);
 		System.out.println("actualValue"+actualValue);
 		Assert.assertEquals("testuser@spsoft.in", actualValue);
-//		Assert.assertTrue(false);
+		Assert.assertTrue(false);
 	}
 	
 	@Test(priority=3)
